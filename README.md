@@ -7,6 +7,6 @@ This website allows you to explore our menu in detail, complete with enticing de
 ---
 
 - fork this `repo` and make the website more beautiful.
-- Checkout the `issues` section in **GitHub** in order to contribute.
+- Checkout the [`issues`](https://github.com/AVidhanR/RuchiRestaurent/issues) section order to contribute.
 - Visit the website [`here`](https://avidhanr.github.io/RuchiRestaurent/)
 - Project by [`AVidhanR`](https://linktr.ee/itsvidhanreddy)
