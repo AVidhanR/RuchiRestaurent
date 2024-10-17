@@ -10,3 +10,4 @@ This website allows you to explore our menu in detail, complete with enticing de
 - Checkout the [`issues`](https://github.com/AVidhanR/RuchiRestaurent/issues) section order to contribute.
 - Visit the website [`here`](https://avidhanr.github.io/RuchiRestaurent/)
 - Project by [`AVidhanR`](https://linktr.ee/itsvidhanreddy)
+<!-- ![image](https://github.com/user-attachments/assets/89a272d0-39cc-4a0e-8445-1a17aa9a805f) -->
